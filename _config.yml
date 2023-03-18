@@ -1,10 +1,10 @@
 title: zulfah # nama anda (atau judul website) disini
-logo: " /images/logo.png?raw=true "  # foto (atau logo) Anda di sini
-deskripsi: > Hallo saya semuanya perkenalkan saya Zulfah. 
+logo: "/images/logo.png?raw=true"  # foto (atau logo) Anda di sini
+deskripsi: > 
+  Hallo saya semuanya perkenalkan saya Zulfah. 
   <br><br>
   Saya adalah mahasiswi jurusan Teknik Informatika di Universitas Mercu Buana semester 6. 
   <br><br>
-
   <a href="https://www.linkedin.com/in/zul-fah-244990229/">Lihat Profil LinkedIn Saya</a>
   
 tema: jekyll-theme-minimal
