@@ -3,9 +3,8 @@ logo : " /images/logo.png?raw=true "  # foto (atau logo) Anda di sini
 deskripsi : > # teks Anda di bawah ini (hapus elemen <br> jika Anda tidak memerlukan jeda baris)
 Hallo saya semuanya perkenalkan saya Zulfah. Saya adalah mahasiswi jurusan Teknik Informatika di Universitas Mercu Buana semester 6. 
   <br><br>
-Saat ini saya sedang mengikuti Studi Independen di Zenius dan saya mengambil konsentrasi Data Analytics.
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">Lihat Profil LinkedIn Saya</a>
+
+  <a href="https://www.linkedin.com/in/zul-fah-244990229/">Lihat Profil LinkedIn Saya</a>
   
 tema : jekyll-theme-minimal
 google_analytics : UA-000000-0 # ID pelacakan Google Analytics Anda di sini
