@@ -1,11 +1,11 @@
-title: zulfah # nama anda (atau judul website) disini
-logo: "/images/logo.png?raw=true"  # foto (atau logo) Anda di sini
-deskripsi: > 
-  Hallo saya semuanya perkenalkan saya Zulfah. 
+title : Zulfah # nama Anda (atau judul situs web) di sini
+logo : " /images/logo.png?raw=true "  # foto (atau logo) Anda di sini
+deskripsi : > # teks Anda di bawah ini (hapus elemen <br> jika Anda tidak memerlukan jeda baris)
+  Hallo Saya Zulfah Mahasiswi dari Universitas Mercu Buana Jakarta
   <br><br>
-  Saya adalah mahasiswi jurusan Teknik Informatika di Universitas Mercu Buana semester 6. 
+  Sekarang saya sedang mengikuti studi independen di Zenius dengan konsentrasi Data Analytics
   <br><br>
-  <a href="https://www.linkedin.com/in/zul-fah-244990229/">Lihat Profil LinkedIn Saya</a>
+  <a href="https://www.linkedin.com/in/example/">Lihat Profil LinkedIn Saya</a>
   
-tema: jekyll-theme-minimal
-google_analytics: UA-000000-0 # ID pelacakan Google Analytics Anda di sini
+tema : jekyll-theme-minimal
+google_analytics : UA-000000-0 # ID pelacakan Google Analytics Anda di sini
